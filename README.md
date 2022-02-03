@@ -1,9 +1,7 @@
-# Cathy Lee 🤔
-[![Cathy's github stats](https://github-readme-stats.vercel.app/api?username=cathyleeu&count_private=true&show_icons=true&theme=synthwave)](https://github.com/cathyleeu)
-<br/>
-### Contacts 📭
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leeyu823@gmail.com)](mailto:leeyu823@gmail.com)
+# Cathy Lee 🤔 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leeyu823@gmail.com)](mailto:leeyu823@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yu-gyung-lee-3303a1122/)](https://www.linkedin.com/in/yu-gyung-lee-3303a1122/)
+<br/>
+[![Cathy's github stats](https://github-readme-stats.vercel.app/api?username=cathyleeu&count_private=true&show_icons=true&theme=synthwave)](https://github.com/cathyleeu)
 
 ### Tech Stack 💻
 <br/>
