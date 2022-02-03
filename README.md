@@ -1,10 +1,12 @@
-### Hi there 👋
-
-Contacts
+# Cathy Lee 🤔
+<div align = "center">
+<h3>Contacts</h3>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leeyu823@gmail.com)](mailto:leeyu823@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yu-gyung-lee-3303a1122/)](https://www.linkedin.com/in/yu-gyung-lee-3303a1122/)
-
+<br/><br/>
 [![Cathy's github stats](https://github-readme-stats.vercel.app/api?username=cathyleeu&count_private=true&show_icons=true&theme=synthwave)](https://github.com/cathyleeu)
+</div>
+
 <!--
 **cathyleeu/cathyleeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
