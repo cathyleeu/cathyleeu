@@ -1,6 +1,3 @@
-
-![](./memoji.gif)
-
  <p align='center'style="font-family: monospace;">
 Hello, I'm a front-end developer.<br>
 I spend time thinking about efficient naming and structure for clean code<br>
