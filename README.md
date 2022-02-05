@@ -12,11 +12,11 @@ I spend time thinking about efficient naming and structure for clean code and pr
   <img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
 </p>
 
-#### I do sometimes
-- swing dance 💃🏻
-- drawing 🎨
-- listening vinyl 🎶
-- traveling 🇹🇷🇨🇳🇭🇰🇯🇵🇸🇬🇹🇭🇻🇳🇲🇾🇨🇦🇺🇸🇨🇿🇫🇷🇬🇧🇬🇷🇭🇺🇪🇸🇵🇹🇪🇬🇲🇦
-
 #### See my github story
-<img src="https://github-readme-stats.vercel.app/api?username=cathyleeu&hide=stars,issues&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&bg_color=#ffffff00&icon_color=#b4a7d6&title_color=#b4a7d6" />
+[Cathy's GitHub story](https://github-readme-stats.vercel.app/api?username=cathyleeu&hide=stars,issues&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&bg_color=#ffffff00&icon_color=#b4a7d6&title_color=#b4a7d6)
+
+#### I do sometimes
+swing dance 💃🏻
+drawing 🎨
+listening vinyl 🎶
+traveling 🇹🇷🇨🇳🇭🇰🇯🇵🇸🇬🇹🇭🇻🇳🇲🇾🇨🇦🇺🇸🇨🇿🇫🇷🇬🇧🇬🇷🇭🇺🇪🇸🇵🇹🇪🇬🇲🇦
