@@ -18,5 +18,5 @@ I spend time thinking about efficient naming and structure for clean code and pr
 - listening vinyl 🎶
 - traveling 🇹🇷🇨🇳🇭🇰🇯🇵🇸🇬🇹🇭🇻🇳🇲🇾🇨🇦🇺🇸🇨🇿🇫🇷🇬🇧🇬🇷🇭🇺🇪🇸🇵🇹🇪🇬🇲🇦
 
-#### see my github story 
-<img src="https://github-readme-stats.vercel.app/api?username=cathyleeu&hide=stars,contribs,issues&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&bg_color=#ffffff00&icon_color=#b4a7d6&title_color=#b4a7d6&custom_title=Cathy's Github story" />
+#### See my github story
+<img src="https://github-readme-stats.vercel.app/api?username=cathyleeu&hide=stars,issues&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&bg_color=#ffffff00&icon_color=#b4a7d6&title_color=#b4a7d6" />
