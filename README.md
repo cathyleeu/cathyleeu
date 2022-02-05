@@ -1,18 +1,21 @@
-<pre style="background-color:transparent; padding: 0; text-align: center;">
-Hello, I'm a front-end developer.<br>
-I spend time thinking about efficient naming and structure for clean code<br>
-and prefer to work with minimal plug-in.<br>
-<strong>Dive into Web 🏄</strong>
-</pre>
 
-<h4 style="font-family: monospace;">💻 I do coding with </h4>
+<div align='center'>
+<strong style="color:"#b4a7d6">Dive into Web 🏄</strong><br><br>
+<code>Hello, I'm a Front-end developer.</code><br>
+I spend time thinking about efficient naming and structure for clean code<br>
+and prefer to work with minimal plug-in.
+</div>
+                              
+-------------
+
+<h4>💻 I do coding with </h4>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
 <h4 style="font-family: monospace;">👩🏻‍💻 See my github story </h4> 
