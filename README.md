@@ -1,6 +1,6 @@
 # Cathy Lee 🤔
 
-[![Cathy's github stats](https://github-readme-stats.vercel.app/api?username=cathyleeu&count_private=true&show_icons=true&theme=synthwave)](https://github.com/cathyleeu)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cathyleeu&layout=compact)]
 
 ### Tech Stack 💻
 <br/>
