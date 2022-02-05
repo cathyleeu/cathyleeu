@@ -1,11 +1,14 @@
-### Cathy Lee 🤔
-<p align='center'>
+
+![](./memoji.gif)
+
+ <p align='center'style="font-family: monospace;">
 Hello, I'm a front-end developer.<br>
 I spend time thinking about efficient naming and structure for clean code<br>
-and prefer to work with minimal plug-in.
+and prefer to work with minimal plug-in.<br>
+<strong>Dive into Web 🏄</strong>
 </p>
 
-#### I do coding with 💻
+<h4 style="font-family: monospace;">💻 I do coding with </h4>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -15,5 +18,6 @@ and prefer to work with minimal plug-in.
   <img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
 </p>
 
-#### See my github story
+<h4 style="font-family: monospace;">👩🏻‍💻 See my github story </h4> 
+
 ![Cathy's GitHub story](https://github-readme-stats.vercel.app/api?username=cathyleeu&hide=stars,issues&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&bg_color=ffffff00&icon_color=b4a7d6&title_color=b4a7d6)
