@@ -1,9 +1,9 @@
- <p align='center'style="font-family: monospace;">
+<pre style="background-color:transparent; padding: 0; text-align: center;">
 Hello, I'm a front-end developer.<br>
 I spend time thinking about efficient naming and structure for clean code<br>
 and prefer to work with minimal plug-in.<br>
 <strong>Dive into Web 🏄</strong>
-</p>
+</pre>
 
 <h4 style="font-family: monospace;">💻 I do coding with </h4>
 <p>
