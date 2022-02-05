@@ -16,7 +16,7 @@
 </p>
 
 
-![Cathy GitHub stats](https://github-readme-stats.vercel.app/api?username=cathyleeu&hide=stars,contribs&count_private=true&show_icons=true&include_all_commits=true)
+![Cathy GitHub stats](https://github-readme-stats.vercel.app/api?username=cathyleeu&hide=stars,contribs&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&bg_color=transparent)
 
 
 <!--
