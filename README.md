@@ -1,6 +1,8 @@
 ### Cathy Lee 🤔
-Hello, I'm a front-end developer.
+<p align='center'>
+Hello, I'm a front-end developer.<br>
 I spend time thinking about efficient naming and structure for clean code and prefer to work with minimal plug-in.
+</p>
 
 #### I do coding with 💻
 <p>
@@ -14,9 +16,3 @@ I spend time thinking about efficient naming and structure for clean code and pr
 
 #### See my github story
 ![Cathy's GitHub story](https://github-readme-stats.vercel.app/api?username=cathyleeu&hide=stars,issues&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&bg_color=#ffffff00&icon_color=#b4a7d6&title_color=#b4a7d6)
-
-#### I do sometimes
-- swing dance 💃🏻
-- drawing 🎨
-- listening vinyl 🎶
-- traveling 🇹🇷🇨🇳🇭🇰🇯🇵🇸🇬🇹🇭🇻🇳🇲🇾🇨🇦🇺🇸🇨🇿🇫🇷🇬🇧🇬🇷🇭🇺🇪🇸🇵🇹🇪🇬🇲🇦
