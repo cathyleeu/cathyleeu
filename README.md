@@ -13,10 +13,10 @@ I spend time thinking about efficient naming and structure for clean code and pr
 </p>
 
 #### See my github story
-[Cathy's GitHub story](https://github-readme-stats.vercel.app/api?username=cathyleeu&hide=stars,issues&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&bg_color=#ffffff00&icon_color=#b4a7d6&title_color=#b4a7d6)
+![Cathy's GitHub story](https://github-readme-stats.vercel.app/api?username=cathyleeu&hide=stars,issues&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&bg_color=#ffffff00&icon_color=#b4a7d6&title_color=#b4a7d6)
 
 #### I do sometimes
-swing dance 💃🏻
-drawing 🎨
-listening vinyl 🎶
-traveling 🇹🇷🇨🇳🇭🇰🇯🇵🇸🇬🇹🇭🇻🇳🇲🇾🇨🇦🇺🇸🇨🇿🇫🇷🇬🇧🇬🇷🇭🇺🇪🇸🇵🇹🇪🇬🇲🇦
+- swing dance 💃🏻
+- drawing 🎨
+- listening vinyl 🎶
+- traveling 🇹🇷🇨🇳🇭🇰🇯🇵🇸🇬🇹🇭🇻🇳🇲🇾🇨🇦🇺🇸🇨🇿🇫🇷🇬🇧🇬🇷🇭🇺🇪🇸🇵🇹🇪🇬🇲🇦
