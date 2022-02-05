@@ -1,6 +1,6 @@
 # Cathy Lee 🤔
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cathyleeu&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cathyleeu&layout=compact) -->
 
 ### Tech Stack 💻
 <br/>
