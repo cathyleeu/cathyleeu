@@ -17,7 +17,7 @@ and prefer to work with minimal plug-in.
   <img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
-
+<!-- 
 <h4 style="font-family: monospace;">👩🏻‍💻 See my github story </h4> 
 
-![Cathy's GitHub story](https://github-readme-stats.vercel.app/api?username=cathyleeu&hide=stars,issues&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&bg_color=ffffff00&icon_color=b4a7d6&title_color=b4a7d6)
+![Cathy's GitHub story](https://github-readme-stats.vercel.app/api?username=cathyleeu&hide=stars,issues&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&bg_color=ffffff00&icon_color=b4a7d6&title_color=b4a7d6) -->
