@@ -2,8 +2,7 @@
 <div align='center'>
 <strong style="color:"#b4a7d6">Dive into Web 🏄</strong><br><br>
 <code>Hello, I'm a Front-end developer.</code><br>
-I spend time thinking about efficient naming and structure for clean code<br>
-and prefer to work with minimal plug-in.
+I spend time thinking about efficient naming and structure for clean code.
 </div>
                               
 -------------
